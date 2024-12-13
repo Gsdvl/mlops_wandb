@@ -2,3 +2,8 @@ flowers
 flowers.tar.gz
 __pycache__
 wandb
+artifacts
+data
+data_split.csv
+model.keras
+assignment_template.txt
